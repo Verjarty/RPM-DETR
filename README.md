@@ -20,7 +20,7 @@ Download the following datasets and convert each to YOLO format:
 
 ## Training
 
-Edit `train.py` to set your model config and dataset path, then run:
+Edit `train.py` to set model config and dataset path, then run:
 
 ```bash
 python train.py
