@@ -6,8 +6,6 @@
 pip install -r requirements.txt
 ```
 
-Key dependencies: `torch`, `ultralytics`, `einops`, `prettytable`.
-
 ## Dataset Preparation
 
 Download the following datasets and convert each to YOLO format:
