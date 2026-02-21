@@ -1,5 +1,4 @@
-import warnings, os, torch, time, shutil
-warnings.filterwarnings('ignore')
+import os, torch, time, shutil
 from ultralytics import RTDETR
 
 torch.backends.cudnn.benchmark = True
