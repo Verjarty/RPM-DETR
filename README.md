@@ -1,4 +1,5 @@
 # Usage
+[![DOI](https://zenodo.org/badge/1162847535.svg)](https://doi.org/10.5281/zenodo.19036498)
 
 ## Requirements
 
