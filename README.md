@@ -1,6 +1,6 @@
 # Enhanced DETR Framework for Accurate Remote Sensing Object Detection
 [![DOI](https://zenodo.org/badge/1162847535.svg)](https://doi.org/10.5281/zenodo.19036498)
-> **Important Note:** > This repository contains the official implementation, source code, and dataset guidelines for the manuscript **"Enhanced DETR Framework for Accurate Remote Sensing Object Detection"**, which is currently submitted to ***The Visual Computer***. 
+> **Important Note:** > This repository contains the source code, and dataset guidelines for the manuscript **"Enhanced DETR Framework for Accurate Remote Sensing Object Detection"**, which is currently submitted to ***The Visual Computer***. 
 > 
 > If you find this code, dataset, or our research helpful in your work, **please consider citing our relevant manuscript**. (Citation details will be updated upon publication).
 ---
